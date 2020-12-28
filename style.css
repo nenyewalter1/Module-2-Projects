@@ -12,6 +12,7 @@
 
 #look{
   background-image: url("https://images.unsplash.com/photo-1526392587392-d1627b6c134a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+  padding-bottom: 5%;
 
 }
 
@@ -21,17 +22,46 @@
 
 .book {
 	background-image: url("https://images.unsplash.com/photo-1549700337-d4fcfce79ae7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+  height: 400px;
 }
 
 .phone {
 	background-image: url("https://images.unsplash.com/photo-1475965894430-b05c9d13568a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80");
+
 }
 
 .brook {
-	background-image: url("https://plk.s6img.com/society6/img/BlaAMJIgfhUnfuf6A4G_2d8xj9A/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/ef404bb885cd4aa1bf7a7453f5ef7b72/~~/chroma-key-green-prints.jpg?wait=0&attempt=0");
+	background-image: url("https://images.unsplash.com/photo-1598940603846-a1edd0ef2574?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80");
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
-.col-md-4{
-      padding-left: 0;
-      padding-right:0;
+.col-sm-4{
+      height: 
+}
+#unique{
+  padding-bottom: 5%;
+  padding-top: 4%;
+}
+.soul{
+  padding-left: 10%;
+}
+#instant{
+  padding-top: 5%;
+  padding-left: 5%;
+}
+#come{
+  padding-top: 5%;
+}
+.apple{
+  padding-top:4%;
+}
 
+#rough{
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-bottom:5%; 
+}
+#more{
+  height:100px;
+  padding-top: 2%;
 }
