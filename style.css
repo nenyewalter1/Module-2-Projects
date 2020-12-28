@@ -35,23 +35,29 @@
   padding-top: 5%;
   padding-bottom: 5%;
 }
+
 .col-sm-4{
       height: 
 }
+
 #unique{
   padding-bottom: 5%;
   padding-top: 4%;
 }
+
 .soul{
   padding-left: 10%;
 }
+
 #instant{
   padding-top: 5%;
   padding-left: 5%;
 }
+
 #come{
   padding-top: 5%;
 }
+
 .apple{
   padding-top:4%;
 }
@@ -61,7 +67,16 @@
   padding-top: 5%;
   padding-bottom:5%; 
 }
+
 #more{
   height:100px;
   padding-top: 2%;
+}
+
+.face{
+  padding-top: 4%;
+}
+
+#square img{
+  height: 300px;
 }
